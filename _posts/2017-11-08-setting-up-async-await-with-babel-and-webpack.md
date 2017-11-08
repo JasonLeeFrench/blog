@@ -63,7 +63,7 @@ npm i --save-dev
 }
 ```
 
-**Finally**, write out the webpack.config.js file:
+**Finally**, write out the `webpack.config.js` file:
 
 ```
 const { resolve } = require('path')
