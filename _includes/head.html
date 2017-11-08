@@ -15,9 +15,7 @@
      {% include {{ js }} %}
   </script>
   {% endfor %}
-
-  
-  {% if jekyll.environment == 'production' and site.google_analytics %}
-  {% include google-analytics.html %}
+  {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
   {% endif %}
 </head>
