@@ -27,7 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-permalink: /:categories/:title
+permalink: /:title
 post_dirs: false
 
 # Exclude from processing.
