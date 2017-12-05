@@ -48,13 +48,13 @@ npm i --save-dev webpack
 ```
 
 ```
-npm i --save-dev 
-  babel-core babel-loader 
-  babel-preset-env babel-polyfill 
+npm i --save-dev \
+  babel-core babel-loader \
+  babel-preset-env babel-polyfill \
   babel-plugin-transform-async-functions
 ```
 
-**Next**, create a `.babelrc` file (fun fact: the `rc` bit stands for run commands):
+**Next**, create a `.babelrc` file (fun fact: the `rc` bit stands for "run commands"):
 
 ```
 {
