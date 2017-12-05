@@ -94,7 +94,7 @@ Excellent! We can now use `async`/`await` in our project!
 
 ```
 // src/js/index.js
-(async () =>
+(async () => {
   const data = await fetch('./data/data.json')
   const anotherDataFile = await fetch('./data/more-data.json')
   console.log(data, anotherDataFile)  
