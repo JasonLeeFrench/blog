@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Images and Such"
+title:  "Images and such"
 date:   2017-11-08 16:00:00 +0:00
 categories: post
 ---
