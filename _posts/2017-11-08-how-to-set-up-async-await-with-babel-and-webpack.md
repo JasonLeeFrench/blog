@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting up async/await with Babel & Webpack"
+title:  "How to set up async/await with Babel & Webpack"
 date:   2017-11-08 08:00:00 +0:00
 categories: post
 ---
