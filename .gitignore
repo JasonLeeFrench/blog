@@ -32,3 +32,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+# should I be tracking .bundle?
+.bundle
