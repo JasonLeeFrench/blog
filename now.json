@@ -1,5 +1,7 @@
 {
-  "env": {
-    "PROJECT_ID": "@project-id"
+  "build": {
+    "env": {
+      "PROJECT_ID": "@project-id"
+    }
   }
 }
