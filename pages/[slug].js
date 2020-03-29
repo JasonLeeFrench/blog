@@ -14,6 +14,12 @@ const serializers = {
       <pre data-language={props.node.language}>
         <code>{props.node.code}</code>
       </pre>
+    ),
+    script: props => (
+      <script dangerouslySetInnerHTML={{__html: props.node.script }} />
+    ),
+    div: props => (
+      <div id={props.node.id}></div>
     )
   }
 }
